@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050421231180OAJA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050421231175779A</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>DOCUMENTO DE PRUEBA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>LAS EMOCIOES </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Francisco Fernández </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Es una prueba </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777912541813</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>f430d2ab-aa34-4473-a6c6-ae6ead746ca8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>f430d2ab-aa34-4473-a6c6-ae6ead746ca8</odePageId>
+      <odeBlockId>block-1777908744467-8t3audipn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>f430d2ab-aa34-4473-a6c6-ae6ead746ca8</odePageId>
+          <odeBlockId>block-1777908744467-8t3audipn</odeBlockId>
+          <odeIdeviceId>idevice-1777908744461-hwyfduz39</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h2 style="text-align: center;"><strong>SITUACIÓN DE APRENDIZAJE </strong></h2>
+<p style="text-align: center;"><br /><strong>TÍTULO: DESCUBRIMOS NUESTRO CUERPO </strong></p>
+<p><strong><img src="{{context_path}}/content/resources/SA2.png" width="597" height="846" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><img src="{{context_path}}/content/resources/SA1.png" width="596" height="844" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></strong><br /></p>
+<p><strong>Centro de interés o temática </strong></p>
+<p>El centro de interés se enfoca en el conocimiento y descubrimiento del cuerpo humano, visto desde una perspectiva global que incluye aspectos físicos, funcionales y emocionales. A través de explorar las partes del cuerpo, su movimiento y su conexión con las emociones, se apoya la formación de la identidad personal y la comprensión del propio cuerpo.</p>
+<p><br /></p>
+<p><strong>Nivel al que va dirigido </strong></p>
+<p>Dirigida a estudiantes de Educación Infantil (4-5 años), que están en un aula específica TEA, caracterizada por una gran diversidad en sus niveles de desarrollo comunicativo, cognitivo y social, lo que necesita una respuesta educativa muy estructurada e individualizada.</p>
+<p><br /><strong>Temporalización aproximada </strong></p>
+<p>La situación de aprendizaje se lleva a cabo en 30 días lectivos, organizados en 15 sesiones, permitiendo una intervención gradual, sistemática y adaptada a los ritmos y necesidades de los estudiantes.</p>
+<p><br /></p>
+<p><strong>Materia o materias implicadas </strong></p>
+<p>Se trata de una propuesta global, propia de la etapa de Educación Infantil, que integra diferentes áreas de experiencia: </p>
+<ul>
+<li>Conocimiento de sí mismo y autonomía personal (CCCI) </li>
+<li>Conocimiento del entorno (CPMS) </li>
+<li>Lenguajes: comunicación y representación (CYL) </li>
+</ul>
+<p>Esta integración promueve un aprendizaje significativo y práctico, relacionado con la vida diaria de los estudiantes.</p>
+<p><br /><strong>Idioma</strong><br /></p>
+<p>El idioma utilizado es el castellano, complementado con el uso de sistemas de comunicación aumentativa y alternativa (SAAC), pictogramas y apoyos visuales, que ayudan a la comprensión y expresión de los estudiantes con TEA.</p>
+<p><br /><strong>Descripción general </strong></p>
+<p>La situación de aprendizaje tiene como objetivo que los estudiantes descubran, reconozcan y se den cuenta de su propio cuerpo, desarrollando habilidades relacionadas con: </p>
+<ul>
+<li>El reconocimiento de las partes del cuerpo </li>
+<li>La coordinación motriz y el control postural </li>
+<li>La expresión y comprensión de emociones a través del cuerpo </li>
+<li>El uso funcional del lenguaje y sistemas de comunicación aumentativa</li>
+</ul>
+<p>La propuesta se realiza mediante actividades estructuradas, manipulativas y motivadoras, basadas en el enfoque TEACCH y los principios del Diseño Universal para el Aprendizaje (DUA), asegurando el acceso, la participación y el avance de los estudiantes.</p>
+<p>El proceso termina con un reto final, que consiste en la creación del cuerpo de “Miguel (Coco)”, donde los estudiantes integran los aprendizajes adquiridos de manera significativa, favoreciendo la generalización y la transferencia a situaciones reales.</p>
+<p><strong></strong><br /></p>
+<p><strong>JUSTIFICACIÓN (BASADA EN EL MODELO REFLEXIVO DE GIBBS).</strong></p>
+<p>La situación de aprendizaje actual se basa en el análisis reflexivo de la enseñanza usando el modelo de Gibbs, lo que ayuda a guiar su diseño desde una vista de mejora y adaptación al aula TEA.</p>
+<p>En la fase de descripción, se considerará que el uso de metodologías activas y herramientas digitales puede mejorar la motivación de los estudiantes, aunque también puede causar problemas en la autonomía, la atención y el uso efectivo de las herramientas. Por eso, se creará una propuesta estructurada, predecible y adaptada.</p>
+<p>En cuanto a la fase de sentimientos, se tomará en cuenta la variedad de respuestas de los estudiantes, usando metodologías que brinden seguridad y claridad, como el enfoque TEACCH, que se basa en estructurar el entorno y usar apoyos visuales.</p>
+<p>En la fase de evaluación, se considerarán posibles problemas en la autonomía y la participación, aplicando los principios del DUA para ofrecer distintas maneras de implicación, representación y expresión.</p>
+<p>Desde el análisis, se valorará la importancia de anticipar las tareas, adaptar los recursos y enseñar de forma clara su uso, incluyendo apoyos visuales y actividades prácticas que fomenten la autonomía gradual.  Por último, desde la conclusión, se priorizará una intervención bien planeada, organizada y funcional, enfocada en transferir los aprendizajes a la vida diaria.</p>
+<p>En línea con esto, la propuesta se ajusta a los principios de inclusión y equidad establecidos en la LOMLOE (2020) y la Orden de 30 de mayo de 2023.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777908744461-hwyfduz39","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h2 style=\"text-align: center;\"><strong>SITUACIÓN DE APRENDIZAJE </strong></h2>\n<p style=\"text-align: center;\"><br /><strong>TÍTULO: DESCUBRIMOS NUESTRO CUERPO </strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/SA2.png\" width=\"597\" height=\"846\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><img src=\"{{context_path}}/content/resources/SA1.png\" width=\"596\" height=\"844\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong><br /></p>\n<p><strong>Centro de interés o temática </strong></p>\n<p>El centro de interés se enfoca en el conocimiento y descubrimiento del cuerpo humano, visto desde una perspectiva global que incluye aspectos físicos, funcionales y emocionales. A través de explorar las partes del cuerpo, su movimiento y su conexión con las emociones, se apoya la formación de la identidad personal y la comprensión del propio cuerpo.</p>\n<p><br /></p>\n<p><strong>Nivel al que va dirigido </strong></p>\n<p>Dirigida a estudiantes de Educación Infantil (4-5 años), que están en un aula específica TEA, caracterizada por una gran diversidad en sus niveles de desarrollo comunicativo, cognitivo y social, lo que necesita una respuesta educativa muy estructurada e individualizada.</p>\n<p><br /><strong>Temporalización aproximada </strong></p>\n<p>La situación de aprendizaje se lleva a cabo en 30 días lectivos, organizados en 15 sesiones, permitiendo una intervención gradual, sistemática y adaptada a los ritmos y necesidades de los estudiantes.</p>\n<p><br /></p>\n<p><strong>Materia o materias implicadas </strong></p>\n<p>Se trata de una propuesta global, propia de la etapa de Educación Infantil, que integra diferentes áreas de experiencia: </p>\n<ul>\n<li>Conocimiento de sí mismo y autonomía personal (CCCI) </li>\n<li>Conocimiento del entorno (CPMS) </li>\n<li>Lenguajes: comunicación y representación (CYL) </li>\n</ul>\n<p>Esta integración promueve un aprendizaje significativo y práctico, relacionado con la vida diaria de los estudiantes.</p>\n<p><br /><strong>Idioma</strong><br /></p>\n<p>El idioma utilizado es el castellano, complementado con el uso de sistemas de comunicación aumentativa y alternativa (SAAC), pictogramas y apoyos visuales, que ayudan a la comprensión y expresión de los estudiantes con TEA.</p>\n<p><br /><strong>Descripción general </strong></p>\n<p>La situación de aprendizaje tiene como objetivo que los estudiantes descubran, reconozcan y se den cuenta de su propio cuerpo, desarrollando habilidades relacionadas con: </p>\n<ul>\n<li>El reconocimiento de las partes del cuerpo </li>\n<li>La coordinación motriz y el control postural </li>\n<li>La expresión y comprensión de emociones a través del cuerpo </li>\n<li>El uso funcional del lenguaje y sistemas de comunicación aumentativa</li>\n</ul>\n<p>La propuesta se realiza mediante actividades estructuradas, manipulativas y motivadoras, basadas en el enfoque TEACCH y los principios del Diseño Universal para el Aprendizaje (DUA), asegurando el acceso, la participación y el avance de los estudiantes.</p>\n<p>El proceso termina con un reto final, que consiste en la creación del cuerpo de “Miguel (Coco)”, donde los estudiantes integran los aprendizajes adquiridos de manera significativa, favoreciendo la generalización y la transferencia a situaciones reales.</p>\n<p><strong></strong><br /></p>\n<p><strong>JUSTIFICACIÓN (BASADA EN EL MODELO REFLEXIVO DE GIBBS).</strong></p>\n<p>La situación de aprendizaje actual se basa en el análisis reflexivo de la enseñanza usando el modelo de Gibbs, lo que ayuda a guiar su diseño desde una vista de mejora y adaptación al aula TEA.</p>\n<p>En la fase de descripción, se considerará que el uso de metodologías activas y herramientas digitales puede mejorar la motivación de los estudiantes, aunque también puede causar problemas en la autonomía, la atención y el uso efectivo de las herramientas. Por eso, se creará una propuesta estructurada, predecible y adaptada.</p>\n<p>En cuanto a la fase de sentimientos, se tomará en cuenta la variedad de respuestas de los estudiantes, usando metodologías que brinden seguridad y claridad, como el enfoque TEACCH, que se basa en estructurar el entorno y usar apoyos visuales.</p>\n<p>En la fase de evaluación, se considerarán posibles problemas en la autonomía y la participación, aplicando los principios del DUA para ofrecer distintas maneras de implicación, representación y expresión.</p>\n<p>Desde el análisis, se valorará la importancia de anticipar las tareas, adaptar los recursos y enseñar de forma clara su uso, incluyendo apoyos visuales y actividades prácticas que fomenten la autonomía gradual.  Por último, desde la conclusión, se priorizará una intervención bien planeada, organizada y funcional, enfocada en transferir los aprendizajes a la vida diaria.</p>\n<p>En línea con esto, la propuesta se ajusta a los principios de inclusión y equidad establecidos en la LOMLOE (2020) y la Orden de 30 de mayo de 2023.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635190323-ysxn506kt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635190323-ysxn506kt</odePageId>
+      <odeBlockId>block-1777909214519-hz7sre8tb</odeBlockId>
+      <blockName>INFOGRAFÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635190323-ysxn506kt</odePageId>
+          <odeBlockId>block-1777909214519-hz7sre8tb</odeBlockId>
+          <odeIdeviceId>idevice-1777909214516-8y9vvoles</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta infografía se presenta como un recurso visual claro y accesible para concienciar al alumnado sobre la importancia de la protección de datos personales y el uso seguro de internet. A través de un diseño estructurado y adaptado a su nivel, se abordan conceptos clave como qué son los datos personales, la necesidad de respetar la privacidad propia y ajena, y las principales normas de seguridad digital. Su enfoque práctico permite que el alumnado no solo comprenda estos contenidos, sino que pueda aplicarlos en su vida cotidiana, favoreciendo el desarrollo de la competencia digital de forma crítica y responsable.</p>
+<p>Además, la infografía incorpora situaciones reales y riesgos actuales como el phishing, el smishing o los retos virales peligrosos, fomentando una actitud preventiva ante posibles amenazas digitales. Se completa con información sobre recursos de ayuda y apoyo institucional, lo que refuerza la idea de que el alumnado no está solo ante estos riesgos. En línea con lo planteado en el marco educativo actual, este tipo de materiales contribuye a una educación integral donde la seguridad, la ética digital y la ciudadanía responsable son elementos esenciales. </p>
+<p><br /></p>
+<h1><img src="{{context_path}}/content/resources/Infografía Proceso Creativo Ilustrado Colorido.jpg" title="Infografía " width="883" height="2208" alt="" /></h1>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777909214516-8y9vvoles","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta infografía se presenta como un recurso visual claro y accesible para concienciar al alumnado sobre la importancia de la protección de datos personales y el uso seguro de internet. A través de un diseño estructurado y adaptado a su nivel, se abordan conceptos clave como qué son los datos personales, la necesidad de respetar la privacidad propia y ajena, y las principales normas de seguridad digital. Su enfoque práctico permite que el alumnado no solo comprenda estos contenidos, sino que pueda aplicarlos en su vida cotidiana, favoreciendo el desarrollo de la competencia digital de forma crítica y responsable.</p>\n<p>Además, la infografía incorpora situaciones reales y riesgos actuales como el phishing, el smishing o los retos virales peligrosos, fomentando una actitud preventiva ante posibles amenazas digitales. Se completa con información sobre recursos de ayuda y apoyo institucional, lo que refuerza la idea de que el alumnado no está solo ante estos riesgos. En línea con lo planteado en el marco educativo actual, este tipo de materiales contribuye a una educación integral donde la seguridad, la ética digital y la ciudadanía responsable son elementos esenciales. </p>\n<p><br /></p>\n<h1><img src=\"{{context_path}}/content/resources/Infografía Proceso Creativo Ilustrado Colorido.jpg\" title=\"Infografía \" width=\"883\" height=\"2208\" alt=\"\" /></h1>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635295093-1eh4v62fz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final que deberá elaborar el alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final que deberá elaborar el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción del producto final que deberá elaborar el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635295093-1eh4v62fz</odePageId>
+      <odeBlockId>block-1777910232802-3te4ziip9</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635295093-1eh4v62fz</odePageId>
+          <odeBlockId>block-1777910232802-3te4ziip9</odeBlockId>
+          <odeIdeviceId>idevice-1777910232797-fc45rck21</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: justify;"><strong>DESCRIPCIÓN DEL PRODUCTO FINAL</strong></h3>
+<p><br /></p>
+<p style="text-align: justify;">El producto final de esta Situación de Aprendizaje consiste en la construcción manipulativa y presentación del cuerpo humano a partir del personaje “Miguel” (Coco). El alumnado deberá recortar, clasificar y ensamblar las diferentes partes del cuerpo (cabeza, tronco y extremidades), elaborando una representación global que refleje lo aprendido a lo largo de la secuencia didáctica.</p>
+<p style="text-align: justify;">Este proceso no se limita a una actividad plástica, sino que implica la identificación, reconocimiento y organización de las partes del cuerpo, favoreciendo la interiorización de los contenidos desde un enfoque práctico y significativo. El producto se completa con el montaje del “Puzzle-Coco” y su posterior presentación, donde el alumnado comunicará su trabajo mediante apoyos gestuales, verbales o visuales, en función de sus capacidades.</p>
+<p style="text-align: justify;">Se trata de un producto final globalizador, funcional y altamente motivador, alineado con la metodología TEACCH y el enfoque DUA, que permite la participación activa de todo el alumnado, respetando sus ritmos y necesidades. Además, promueve el desarrollo de habilidades no solo cognitivas, sino también comunicativas, sociales y de autorregulación, siendo especialmente adecuado para un aula TEA de 4-5 años.</p>
+<p style="text-align: justify;"> <img src="{{context_path}}/content/resources/76f4bcdfaa10c6cbcfcbc5c7522b4718f15a6251fd463d505ff94c335cc98160.png" width="1536" height="1024" alt="" /></p>
+<p style="text-align: justify;"><strong></strong><br /></p>
+<h3 style="text-align: justify;"><strong>Herramienta: ARASAAC      <img src="{{context_path}}/content/resources/images.jpeg" width="138" height="138" alt="" /></strong><br /></h3>
+<p style="text-align: justify;">Para el desarrollo del producto final, se empleará como herramienta principal ARASAAC, orientada a la creación de apoyos visuales mediante pictogramas.</p>
+<p style="text-align: justify;">El objetivo de esta herramienta es facilitar la comprensión, organización y expresión del aprendizaje, especialmente en un aula TEA, donde los apoyos visuales resultan esenciales para el acceso al currículo. A través de ARASAAC, se elaborarán secuencias visuales, paneles de vocabulario y apoyos estructurados que guiarán al alumnado durante todo el proceso de construcción y presentación del cuerpo humano.</p>
+<p style="text-align: justify;">Su elección responde, en primer lugar, a su adecuación al contexto educativo, ya que permite diseñar materiales adaptados a alumnado con dificultades en la comunicación y comprensión. En segundo lugar, destaca por su versatilidad, posibilitando la creación de múltiples recursos (tarjetas, rutinas, secuencias, apoyos visuales…) que pueden integrarse tanto en actividades manipulativas como en momentos de comunicación y evaluación.</p>
+<p style="text-align: justify;">En términos de accesibilidad, ARASAAC elimina barreras de comprensión al ofrecer un lenguaje visual claro y universal, favoreciendo la participación de todo el alumnado y ajustando el contenido a distintos niveles de competencia. Asimismo, promueve un aprendizaje significativo, ya que permite que el alumnado no solo interactúe con los contenidos, sino que los comprenda, los anticipe y los utilice para expresarse.</p>
+<p style="text-align: justify;">Como complemento, estos apoyos visuales podrán integrarse en una presentación sencilla (por ejemplo, Genially), donde, con ayuda del docente, el alumnado podrá mostrar su producto final de forma visual, organizada y comprensible.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910232797-fc45rck21","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: justify;\"><strong>DESCRIPCIÓN DEL PRODUCTO FINAL</strong></h3>\n<p><br /></p>\n<p style=\"text-align: justify;\">El producto final de esta Situación de Aprendizaje consiste en la construcción manipulativa y presentación del cuerpo humano a partir del personaje “Miguel” (Coco). El alumnado deberá recortar, clasificar y ensamblar las diferentes partes del cuerpo (cabeza, tronco y extremidades), elaborando una representación global que refleje lo aprendido a lo largo de la secuencia didáctica.</p>\n<p style=\"text-align: justify;\">Este proceso no se limita a una actividad plástica, sino que implica la identificación, reconocimiento y organización de las partes del cuerpo, favoreciendo la interiorización de los contenidos desde un enfoque práctico y significativo. El producto se completa con el montaje del “Puzzle-Coco” y su posterior presentación, donde el alumnado comunicará su trabajo mediante apoyos gestuales, verbales o visuales, en función de sus capacidades.</p>\n<p style=\"text-align: justify;\">Se trata de un producto final globalizador, funcional y altamente motivador, alineado con la metodología TEACCH y el enfoque DUA, que permite la participación activa de todo el alumnado, respetando sus ritmos y necesidades. Además, promueve el desarrollo de habilidades no solo cognitivas, sino también comunicativas, sociales y de autorregulación, siendo especialmente adecuado para un aula TEA de 4-5 años.</p>\n<p style=\"text-align: justify;\"> <img src=\"{{context_path}}/content/resources/76f4bcdfaa10c6cbcfcbc5c7522b4718f15a6251fd463d505ff94c335cc98160.png\" width=\"1536\" height=\"1024\" alt=\"\" /></p>\n<p style=\"text-align: justify;\"><strong></strong><br /></p>\n<h3 style=\"text-align: justify;\"><strong>Herramienta: ARASAAC      <img src=\"{{context_path}}/content/resources/images.jpeg\" width=\"138\" height=\"138\" alt=\"\" /></strong><br /></h3>\n<p style=\"text-align: justify;\">Para el desarrollo del producto final, se empleará como herramienta principal ARASAAC, orientada a la creación de apoyos visuales mediante pictogramas.</p>\n<p style=\"text-align: justify;\">El objetivo de esta herramienta es facilitar la comprensión, organización y expresión del aprendizaje, especialmente en un aula TEA, donde los apoyos visuales resultan esenciales para el acceso al currículo. A través de ARASAAC, se elaborarán secuencias visuales, paneles de vocabulario y apoyos estructurados que guiarán al alumnado durante todo el proceso de construcción y presentación del cuerpo humano.</p>\n<p style=\"text-align: justify;\">Su elección responde, en primer lugar, a su adecuación al contexto educativo, ya que permite diseñar materiales adaptados a alumnado con dificultades en la comunicación y comprensión. En segundo lugar, destaca por su versatilidad, posibilitando la creación de múltiples recursos (tarjetas, rutinas, secuencias, apoyos visuales…) que pueden integrarse tanto en actividades manipulativas como en momentos de comunicación y evaluación.</p>\n<p style=\"text-align: justify;\">En términos de accesibilidad, ARASAAC elimina barreras de comprensión al ofrecer un lenguaje visual claro y universal, favoreciendo la participación de todo el alumnado y ajustando el contenido a distintos niveles de competencia. Asimismo, promueve un aprendizaje significativo, ya que permite que el alumnado no solo interactúe con los contenidos, sino que los comprenda, los anticipe y los utilice para expresarse.</p>\n<p style=\"text-align: justify;\">Como complemento, estos apoyos visuales podrán integrarse en una presentación sencilla (por ejemplo, Genially), donde, con ayuda del docente, el alumnado podrá mostrar su producto final de forma visual, organizada y comprensible.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635331061-oopuzmh49</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635331061-oopuzmh49</odePageId>
+      <odeBlockId>block-1777911372443-j3y38uzmc</odeBlockId>
+      <blockName>H. CURACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635331061-oopuzmh49</odePageId>
+          <odeBlockId>block-1777911372443-j3y38uzmc</odeBlockId>
+          <odeIdeviceId>idevice-1777911372437-crkw96kwr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3><strong>HERRAMIENTAS PARA EL ALUMNADO</strong></h3>
+<p>Os comparto las  herramientas, tutoriales, vídeos o recursos que necesitará mi alumnado para hacer el proyecto donde he seleccionado la herramienta PADLET. Todo el contenido se puede consultar en el enlace: </p>
+<p><strong>ENLACE: </strong><br /> <a href="https://padlet.com/fferdom354/curso-comptencia-digital-b2-fcw79k2899tly8m7">https://padlet.com/fferdom354/curso-comptencia-digital-b2-fcw79k2899tly8m7</a> </p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.17.45.png" width="1110" height="695" alt="" /> <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.17.58.png" width="1110" height="846" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.18.07.png" width="1110" height="778" alt="" /></p>
+<h3><br /></h3>
+<h3><br /></h3>
+<h3><strong>HERRAMIENTA PARA EL PROFESORADO</strong></h3>
+<p>En la segunda parte de la tarea, he seleccionado una herramienta de curación de contenidos diferente para hacer esa recopilación. Para ello he seleccionado una herramienta llamada <strong>NOTION</strong>. Esta herramienta me encanta y la estoy usando bastante para la gestión de mi aula: </p>
+<p><strong>ENLACE:</strong><br /><a href="https://www.notion.so/MI-GESTI-N-DEL-AULA-CON-NOTION-CURSO-COMPETENCIA-DIGITAL-B2-34a9d132c27180e4a23bc6a431b6cd0c?source=copy_link">https://www.notion.so/MI-GESTI-N-DEL-AULA-CON-NOTION-CURSO-COMPETENCIA-DIGITAL-B2-34a9d132c27180e4a23bc6a431b6cd0c?source=copy_link</a> </p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.28.png" width="1552" height="967" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.43.png" width="1755" height="985" alt="" /><br /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.53.png" width="1755" height="985" alt="" /></p>
+<p>NOTA: En muchas de las ventanas hay desplegables, os invito a que los despleguéis para ver el contenido de los mismos. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911372437-crkw96kwr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3><strong>HERRAMIENTAS PARA EL ALUMNADO</strong></h3>\n<p>Os comparto las  herramientas, tutoriales, vídeos o recursos que necesitará mi alumnado para hacer el proyecto donde he seleccionado la herramienta PADLET. Todo el contenido se puede consultar en el enlace: </p>\n<p><strong>ENLACE: </strong><br /> <a href=\"https://padlet.com/fferdom354/curso-comptencia-digital-b2-fcw79k2899tly8m7\">https://padlet.com/fferdom354/curso-comptencia-digital-b2-fcw79k2899tly8m7</a> </p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.17.45.png\" width=\"1110\" height=\"695\" alt=\"\" /> <img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.17.58.png\" width=\"1110\" height=\"846\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.18.07.png\" width=\"1110\" height=\"778\" alt=\"\" /></p>\n<h3><br /></h3>\n<h3><br /></h3>\n<h3><strong>HERRAMIENTA PARA EL PROFESORADO</strong></h3>\n<p>En la segunda parte de la tarea, he seleccionado una herramienta de curación de contenidos diferente para hacer esa recopilación. Para ello he seleccionado una herramienta llamada <strong>NOTION</strong>. Esta herramienta me encanta y la estoy usando bastante para la gestión de mi aula: </p>\n<p><strong>ENLACE:</strong><br /><a href=\"https://www.notion.so/MI-GESTI-N-DEL-AULA-CON-NOTION-CURSO-COMPETENCIA-DIGITAL-B2-34a9d132c27180e4a23bc6a431b6cd0c?source=copy_link\">https://www.notion.so/MI-GESTI-N-DEL-AULA-CON-NOTION-CURSO-COMPETENCIA-DIGITAL-B2-34a9d132c27180e4a23bc6a431b6cd0c?source=copy_link</a> </p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.28.png\" width=\"1552\" height=\"967\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.43.png\" width=\"1755\" height=\"985\" alt=\"\" /><br /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.28.53.png\" width=\"1755\" height=\"985\" alt=\"\" /></p>\n<p>NOTA: En muchas de las ventanas hay desplegables, os invito a que los despleguéis para ver el contenido de los mismos. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635364302-s59o9alcj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635364302-s59o9alcj</odePageId>
+      <odeBlockId>block-1777912727463-j87ffzbpu</odeBlockId>
+      <blockName>LINEA DEL TIEMPO CON PADLET</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635364302-s59o9alcj</odePageId>
+          <odeBlockId>block-1777912727463-j87ffzbpu</odeBlockId>
+          <odeIdeviceId>idevice-1777912727456-d507pmhvc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La siguiente secuencia de actividades organiza el proceso de aprendizaje desde la exploración inicial del cuerpo hasta la realización del producto final. A través de tareas manipulativas, visuales y adaptadas, el alumnado construye sus conocimientos de forma progresiva, en un entorno estructurado e inclusivo acorde a la <strong>metodología TEACCH</strong> y los principios del <strong>DUA.</strong><strong></strong></p>
+<p style="text-align: justify;"><strong>ENLACE: <a href="https://padlet.com/fferdom354/curso-competencia-digital-b2-yx3765kshwh7raz4">https://padlet.com/fferdom354/curso-competencia-digital-b2-yx3765kshwh7raz4</a> </strong></p>
+<p style="text-align: justify;"><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.08.png" width="1838" height="577" alt="" /></strong></p>
+<p style="text-align: justify;"><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.21.png" width="1838" height="577" alt="" /></strong></p>
+<p style="text-align: justify;"><strong><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.36.png" width="552" height="344" alt="" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912727456-d507pmhvc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La siguiente secuencia de actividades organiza el proceso de aprendizaje desde la exploración inicial del cuerpo hasta la realización del producto final. A través de tareas manipulativas, visuales y adaptadas, el alumnado construye sus conocimientos de forma progresiva, en un entorno estructurado e inclusivo acorde a la <strong>metodología TEACCH</strong> y los principios del <strong>DUA.</strong><strong></strong></p>\n<p style=\"text-align: justify;\"><strong>ENLACE: <a href=\"https://padlet.com/fferdom354/curso-competencia-digital-b2-yx3765kshwh7raz4\">https://padlet.com/fferdom354/curso-competencia-digital-b2-yx3765kshwh7raz4</a> </strong></p>\n<p style=\"text-align: justify;\"><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.08.png\" width=\"1838\" height=\"577\" alt=\"\" /></strong></p>\n<p style=\"text-align: justify;\"><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.21.png\" width=\"1838\" height=\"577\" alt=\"\" /></strong></p>\n<p style=\"text-align: justify;\"><strong><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 18.38.36.png\" width=\"552\" height=\"344\" alt=\"\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777635404803-okoqvi3bf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación asociados a esas actividades</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación asociados a esas actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación asociados a esas actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777635404803-okoqvi3bf</odePageId>
+      <odeBlockId>block-1777913628301-usc9kr0eb</odeBlockId>
+      <blockName>CRITERIOS E.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777635404803-okoqvi3bf</odePageId>
+          <odeBlockId>block-1777913628301-usc9kr0eb</odeBlockId>
+          <odeIdeviceId>idevice-1777913628299-mmrd5lz91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las siguientes tablas recogen la organización de las tareas de la Situación de Aprendizaje, vinculando cada actividad con sus criterios de evaluación, tipo de agrupamiento, temporalización y herramientas digitales. Esta planificación permite asegurar una intervención estructurada, adaptada y coherente con los objetivos propuestos, facilitando el seguimiento del proceso de aprendizaje del alumnado de manera clara y sistemática.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.27.png" width="1018" height="438" alt="" /></p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.38.png" width="1018" height="410" alt="" /></p>
+<p style="text-align: justify;"><strong></strong><br /></p>
+<p style="text-align: justify;"><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong></p>
+<p style="text-align: justify;">La incorporación de herramientas digitales en el aula puede generar problemas técnicos, como fallos de conexión, dificultades con los dispositivos o errores en el funcionamiento de algunas plataformas. Para manejar estas situaciones de manera efectiva, es crucial tener un enfoque preventivo, flexible y enfocado en el aprendizaje del alumnado. </p>
+<p style="text-align: justify;">En primer lugar, la prevención es la estrategia más efectiva. Es aconsejable que el docente realice una revisión previa de todos los recursos tecnológicos que se van a usar, asegurándose de que la conexión a internet, los dispositivos y los enlaces o aplicaciones seleccionadas funcionen correctamente. También, es útil tener materiales alternativos listos, como recursos impresos, pictogramas o actividades manipulativas, que permitan seguir con la sesión sin interrupciones en el caso de un problema técnico.</p>
+<p style="text-align: justify;">En segundo lugar, es esencial tener un plan alternativo que asegure la continuidad del proceso de enseñanza-aprendizaje. Desde un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), las actividades deben poder llevarse a cabo a través de diferentes canales, de modo que, si la tecnología falla, se puedan reemplazar por propuestas visuales, manipulativas o corporales sin perder el objetivo educativo de la tarea.</p>
+<p style="text-align: justify;">Por otro lado, la selección de herramientas digitales debe ser adecuada y coherente, priorizando aquellas que sean sencillas de usar, accesibles y conocidas por el docente, lo que disminuye la posibilidad de errores técnicos y facilita su uso en el aula.</p>
+<p style="text-align: justify;">Durante la intervención, la actitud del docente también es fundamental. Es importante mantener la calma, actuar con naturalidad y redirigir la actividad de manera rápida hacia la alternativa planificada, evitando tiempos muertos que puedan causar desmotivación o desorganización, sobre todo en contextos donde el alumnado necesita más estructura.</p>
+<p style="text-align: justify;">Finalmente, la coordinación con otros profesionales del centro, como el coordinador TIC, así como la reflexión posterior sobre las incidencias que surgieron, permitirá mejorar la planificación futura y maximizar el uso de la tecnología en el aula.</p>
+<p style="text-align: justify;">En resumen, la solución de problemas técnicos no debe verse como un obstáculo, sino como una oportunidad para fortalecer una práctica docente flexible, inclusiva y orientada a asegurar el aprendizaje en cualquier situación.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777913628299-mmrd5lz91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las siguientes tablas recogen la organización de las tareas de la Situación de Aprendizaje, vinculando cada actividad con sus criterios de evaluación, tipo de agrupamiento, temporalización y herramientas digitales. Esta planificación permite asegurar una intervención estructurada, adaptada y coherente con los objetivos propuestos, facilitando el seguimiento del proceso de aprendizaje del alumnado de manera clara y sistemática.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.27.png\" width=\"1018\" height=\"438\" alt=\"\" /></p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.38.png\" width=\"1018\" height=\"410\" alt=\"\" /></p>\n<p style=\"text-align: justify;\"><strong></strong><br /></p>\n<p style=\"text-align: justify;\"><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong></p>\n<p style=\"text-align: justify;\">La incorporación de herramientas digitales en el aula puede generar problemas técnicos, como fallos de conexión, dificultades con los dispositivos o errores en el funcionamiento de algunas plataformas. Para manejar estas situaciones de manera efectiva, es crucial tener un enfoque preventivo, flexible y enfocado en el aprendizaje del alumnado. </p>\n<p style=\"text-align: justify;\">En primer lugar, la prevención es la estrategia más efectiva. Es aconsejable que el docente realice una revisión previa de todos los recursos tecnológicos que se van a usar, asegurándose de que la conexión a internet, los dispositivos y los enlaces o aplicaciones seleccionadas funcionen correctamente. También, es útil tener materiales alternativos listos, como recursos impresos, pictogramas o actividades manipulativas, que permitan seguir con la sesión sin interrupciones en el caso de un problema técnico.</p>\n<p style=\"text-align: justify;\">En segundo lugar, es esencial tener un plan alternativo que asegure la continuidad del proceso de enseñanza-aprendizaje. Desde un enfoque basado en el Diseño Universal para el Aprendizaje (DUA), las actividades deben poder llevarse a cabo a través de diferentes canales, de modo que, si la tecnología falla, se puedan reemplazar por propuestas visuales, manipulativas o corporales sin perder el objetivo educativo de la tarea.</p>\n<p style=\"text-align: justify;\">Por otro lado, la selección de herramientas digitales debe ser adecuada y coherente, priorizando aquellas que sean sencillas de usar, accesibles y conocidas por el docente, lo que disminuye la posibilidad de errores técnicos y facilita su uso en el aula.</p>\n<p style=\"text-align: justify;\">Durante la intervención, la actitud del docente también es fundamental. Es importante mantener la calma, actuar con naturalidad y redirigir la actividad de manera rápida hacia la alternativa planificada, evitando tiempos muertos que puedan causar desmotivación o desorganización, sobre todo en contextos donde el alumnado necesita más estructura.</p>\n<p style=\"text-align: justify;\">Finalmente, la coordinación con otros profesionales del centro, como el coordinador TIC, así como la reflexión posterior sobre las incidencias que surgieron, permitirá mejorar la planificación futura y maximizar el uso de la tecnología en el aula.</p>\n<p style=\"text-align: justify;\">En resumen, la solución de problemas técnicos no debe verse como un obstáculo, sino como una oportunidad para fortalecer una práctica docente flexible, inclusiva y orientada a asegurar el aprendizaje en cualquier situación.</p>\n<p style=\"text-align: justify;\"> </p>\n<p style=\"text-align: justify;\"> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917635417-z3xe55v52</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917635417-z3xe55v52</odePageId>
+      <odeBlockId>block-1777918497260-ib92ojyil</odeBlockId>
+      <blockName>AUTORÍA, LICENCIA DE USO, DESCARGA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917635417-z3xe55v52</odePageId>
+          <odeBlockId>block-1777918497260-ib92ojyil</odeBlockId>
+          <odeIdeviceId>idevice-1777918497256-vmr89ln62</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>AUTORÍA: </strong>Francisco Javier Fernández Domínguez</p>
+<p><strong>LICENCIA DE USO: </strong>Este recurso se distribuye bajo licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).<br />Se permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta bajo la misma licencia.</p>
+<p><strong>BOTÓN DE DESCARGA  DE ARCHIVO:</strong> </p>
+<p>📥 <a href="{{context_path}}/content/resources/documento-de-prueba.elpx" title="documento-de-prueba.elpx">DESCARGA DE ARCHIVO</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777918497256-vmr89ln62","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>AUTORÍA: </strong>Francisco Javier Fernández Domínguez</p>\n<p><strong>LICENCIA DE USO: </strong>Este recurso se distribuye bajo licencia Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).<br />Se permite su uso, adaptación y difusión siempre que se reconozca la autoría, no se utilice con fines comerciales y se comparta bajo la misma licencia.</p>\n<p><strong>BOTÓN DE DESCARGA  DE ARCHIVO:</strong> </p>\n<p>📥 <a href=\"{{context_path}}/content/resources/documento-de-prueba.elpx\" title=\"documento-de-prueba.elpx\">DESCARGA DE ARCHIVO</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777917675309-r16kf6seq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica </pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777917675309-r16kf6seq</odePageId>
+      <odeBlockId>block-1777917681862-iko14hxna</odeBlockId>
+      <blockName>Guía d.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777917675309-r16kf6seq</odePageId>
+          <odeBlockId>block-1777917681862-iko14hxna</odeBlockId>
+          <odeIdeviceId>idevice-1777917681859-bqey48xuf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La presente <strong>«Guía didáctica»</strong> recoge la relación entre las tareas propuestas en la Situación de Aprendizaje y los criterios de evaluación correspondientes, facilitando una visión clara y estructurada del proceso de enseñanza-aprendizaje. Asimismo, se complementa con otros elementos como el agrupamiento, la temporalización y las herramientas utilizadas, con el objetivo de orientar su aplicación práctica en el aula y servir de apoyo al profesorado.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.27.png" width="1018" height="438" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.38.png" width="1018" height="410" alt="" /></p>
+<p><br /></p>
+<p>Por otra parte se cumplimenta presentación de la situación de aprendizaje y su relación con el resto de <strong>elementos curriculares.</strong> <br /><br /><img src="{{context_path}}/content/resources/SA2.png" width="737" height="1044" alt="" style="display: block; margin-left: auto; margin-right: auto;" /><br /></p>
+<h3><strong>Observaciones y recomendaciones para su aplicación en el aula</strong></h3>
+<p style="text-align: justify;"><br />Se recomienda implementar esta Situación de Aprendizaje en un <strong>entorno estructurado y predecible</strong>, siguiendo r<strong>utinas claras</strong> que faciliten la comprensión del alumnado, especialmente en contextos TEA. Es fundamental <strong>anticipar cada actividad</strong> mediante apoyos visuales (agendas, pictogramas, secuencias), favoreciendo así la seguridad y la participación activa.</p>
+<p style="text-align: justify;">Las tareas deben <strong>adaptarse al nivel</strong> de competencia de cada alumno, permitiendo distintos grados de ayuda y <strong>fomentando la flexibilidad metodológica</strong>. Se aconseja <strong>priorizar el uso de material manipulativo y experiencias sensoriales</strong>, así como <strong>combinar momentos de trabajo</strong> individual, en pequeño grupo y gran grupo para potenciar tanto la autonomía como la interacción social.</p>
+<p style="text-align: justify;">En cuanto a las <strong>herramientas digitales,</strong> se recomienda utilizarlas siempre como apoyo y no como fin en sí mismas, garantizando su accesibilidad y adecuación al alumnado. Asimismo, es importante realizar una <strong>evaluación continua y formativa</strong>, basada en la observación sistemática, que permita ajustar la intervención en función de la evolución del alumnado.</p>
+<p style="text-align: justify;">Por último, se aconseja mantener una <strong>coordinación</strong> estrecha con el equipo educativo y las familias, asegurando la coherencia en las estrategias utilizadas y favoreciendo la generalización de los aprendizajes a otros contextos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777917681859-bqey48xuf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La presente <strong>«Guía didáctica»</strong> recoge la relación entre las tareas propuestas en la Situación de Aprendizaje y los criterios de evaluación correspondientes, facilitando una visión clara y estructurada del proceso de enseñanza-aprendizaje. Asimismo, se complementa con otros elementos como el agrupamiento, la temporalización y las herramientas utilizadas, con el objetivo de orientar su aplicación práctica en el aula y servir de apoyo al profesorado.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.27.png\" width=\"1018\" height=\"438\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-04 a las 19.05.38.png\" width=\"1018\" height=\"410\" alt=\"\" /></p>\n<p><br /></p>\n<p>Por otra parte se cumplimenta presentación de la situación de aprendizaje y su relación con el resto de <strong>elementos curriculares.</strong> <br /><br /><img src=\"{{context_path}}/content/resources/SA2.png\" width=\"737\" height=\"1044\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /></p>\n<h3><strong>Observaciones y recomendaciones para su aplicación en el aula</strong></h3>\n<p style=\"text-align: justify;\"><br />Se recomienda implementar esta Situación de Aprendizaje en un <strong>entorno estructurado y predecible</strong>, siguiendo r<strong>utinas claras</strong> que faciliten la comprensión del alumnado, especialmente en contextos TEA. Es fundamental <strong>anticipar cada actividad</strong> mediante apoyos visuales (agendas, pictogramas, secuencias), favoreciendo así la seguridad y la participación activa.</p>\n<p style=\"text-align: justify;\">Las tareas deben <strong>adaptarse al nivel</strong> de competencia de cada alumno, permitiendo distintos grados de ayuda y <strong>fomentando la flexibilidad metodológica</strong>. Se aconseja <strong>priorizar el uso de material manipulativo y experiencias sensoriales</strong>, así como <strong>combinar momentos de trabajo</strong> individual, en pequeño grupo y gran grupo para potenciar tanto la autonomía como la interacción social.</p>\n<p style=\"text-align: justify;\">En cuanto a las <strong>herramientas digitales,</strong> se recomienda utilizarlas siempre como apoyo y no como fin en sí mismas, garantizando su accesibilidad y adecuación al alumnado. Asimismo, es importante realizar una <strong>evaluación continua y formativa</strong>, basada en la observación sistemática, que permita ajustar la intervención en función de la evolución del alumnado.</p>\n<p style=\"text-align: justify;\">Por último, se aconseja mantener una <strong>coordinación</strong> estrecha con el equipo educativo y las familias, asegurando la coherencia en las estrategias utilizadas y favoreciendo la generalización de los aprendizajes a otros contextos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
